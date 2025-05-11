@@ -1,0 +1,39 @@
+.resume{
+    background-color: rgba(250, 235, 215, 0.804);
+    padding-top: 50px;
+}
+
+.container{
+    background-color: rgba(117, 234, 236, 0.441);
+}
+
+
+.resume .name-part{
+    padding-bottom: 35px;
+}
+
+.resume .name-part h1{
+    color: rgb(40, 183, 240);
+    padding-bottom: 7px;
+}
+
+/* ============== */
+.resume .part-1 h3{
+   padding: 7px 0px;
+    
+}
+
+.resume .part-1 p{
+    width: 80%;
+    font-size: 18px;
+    font-weight: 400;
+    padding-top: 7px;
+    
+}
+
+
+
+.resume .part-1 span{
+    font-size: 14px;
+    
+}
