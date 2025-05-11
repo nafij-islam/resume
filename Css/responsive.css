@@ -1,0 +1,72 @@
+@media (min-width:320px) and (max-width:576.99px){
+    .resume{
+    background-color: rgba(250, 235, 215, 0.804);
+    padding: 20px;
+}
+
+
+.resume .name-part {
+	padding-bottom: 31px;
+}
+
+
+.resume .part-1 p {
+	width: 96%;
+	font-size: 12px;
+	padding-top: 8px;
+}
+
+
+.resume .part-1 h3 {
+	padding: 12px 0px;
+	font-size: 24px;
+}
+
+
+
+
+.resume .right-part .img-part {
+	margin-top: 31px;
+	margin-left: 50%;
+    transform: translateX(-50%);
+}
+
+}
+
+
+
+
+@media (min-width:567px) and (max-width:767.99px){
+    .resume{
+    background-color: rgba(250, 235, 215, 0.804);
+    padding: 10px;
+}
+
+
+.resume .name-part {
+	padding-bottom: 31px;
+}
+
+
+.resume .part-1 p {
+	width: 96%;
+	font-size: 12px;
+	padding-top: 8px;
+}
+
+
+.resume .part-1 h3 {
+	padding: 12px 0px;
+	font-size: 24px;
+}
+
+
+
+
+.resume .right-part .img-part {
+	margin-top: 31px;
+	margin-left: 50%;
+    transform: translateX(-50%);
+}
+
+}

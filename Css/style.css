@@ -1,25 +1,23 @@
 .resume{
     background-color: rgba(250, 235, 215, 0.804);
-    padding-top: 50px;
+    padding: 50px;
 }
-
-.container{
-    background-color: rgba(117, 234, 236, 0.441);
-}
-
 
 .resume .name-part{
-    padding-bottom: 35px;
+    padding-bottom: 90px;
 }
 
 .resume .name-part h1{
     color: rgb(40, 183, 240);
     padding-bottom: 7px;
+    font-family: "Poppins", sans-serif;
 }
 
 /* ============== */
 .resume .part-1 h3{
    padding: 7px 0px;
+   color: rgb(17, 103, 224);
+   font-family: "Poppins", sans-serif;
     
 }
 
@@ -28,6 +26,7 @@
     font-size: 18px;
     font-weight: 400;
     padding-top: 7px;
+    font-family: "Poppins", sans-serif;
     
 }
 
@@ -35,5 +34,45 @@
 
 .resume .part-1 span{
     font-size: 14px;
+    font-family: "Poppins", sans-serif;
+
     
 }
+
+
+
+
+
+
+
+/* =============== */
+
+
+
+.resume .right-part .img-part{
+    width: 150px;
+    height: 150px;
+    background-image: url(/img/WhatsApp\ Image\ 2025-05-11\ at\ 18.30.52_120f3149.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;background-position: center;
+    border-radius: 50%;
+    border: 4px solid rgb(217, 0, 255);
+    box-shadow: 0px 0px 30px rgb(40, 183, 240);
+    margin-bottom: 30px;
+}
+
+.resume .right-part .work{
+    padding-top: 30px;
+}
+
+.resume .right-part .work ul{
+    padding-top: 10px;
+}
+
+
+.resume .right-part .work a{
+    text-decoration: none;
+}
+
+
+
